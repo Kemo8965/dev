@@ -14,7 +14,7 @@ export default {
   //target: 'server',
 
   head: {
-    title: 'Litmas Dairy',
+    title: 'eLearners Portal',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
